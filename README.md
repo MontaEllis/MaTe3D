@@ -35,7 +35,9 @@ Download [CatMaskHQ](https://huggingface.co/datasets/Ellis/CatMaskHQ) dataset.
 To expand the scope beyond human face and explore the model generalization and expansion, we design the CatMask-HQ dataset with the following representative features:
 
 **Specialization**:  CatMask-HQ is specifically designed for cat faces, including precise annotations for six facial parts (background, skin, ears, eyes, nose, and mouth) relevant to feline features.
+
 **High-Quality Annotations**: The dataset benefits from manual annotations by $50$ annotators and undergoes $3$ accuracy checks, ensuring high-quality labels and reducing individual differences.
+
 **Substantial Dataset Scale**: With approximately $5,060$ high-quality real cat face images and corresponding annotations, CatMask-HQ provides ample training database for deep learning models.
 
 ![CatMaskHQ Image](docs/cat.png "CatMaskHQ")

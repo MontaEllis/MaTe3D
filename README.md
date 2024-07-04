@@ -2,14 +2,14 @@
 
 ### <div align="center"> MaTe3D: Mask-guided Text-based 3D-aware Portrait Editing <div> 
 
+<div align="center">
 [Kangneng Zhou](https://montaellis.github.io/), [Daiheng Gao](https://tomguluson92.github.io/), [Xuan Wang](https://xuanwangvc.github.io/), [Jie Zhang](https://scholar.google.com/citations?user=gBkYZeMAAAAJ), [Peng Zhang](https://scholar.google.com/citations?user=QTgxKmkAAAAJ&hl=zh-CN), [Xusen Sun](https://dblp.org/pid/308/0824.html), [Longhao Zhang](https://scholar.google.com/citations?user=qkJD6c0AAAAJ), [Shiqi Yang](https://www.shiqiyang.xyz/), [Bang Zhang](https://dblp.org/pid/11/4046.html), [Liefeng Bo](https://scholar.google.com/citations?user=FJwtMf0AAAAJ&hl=zh-CN), [Yaxing Wang](https://scholar.google.es/citations?user=6CsB8k0AAAAJ), [Yaxing Wang](https://scholar.google.es/citations?user=6CsB8k0AAAAJ), [Ming-Ming Cheng](https://mmcheng.net/cmm)
 
 
-
-<div align="center">
-<a href='https://montaellis.github.io/mate3d/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &ensp;
+<a href='https://montaellis.github.io/mate-3d/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &ensp;
 <a href='https://arxiv.org/abs/2312.06947'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> &ensp;
-[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/zMNYan1mIds) &ensp;
+<!-- [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/zMNYan1mIds) &ensp; -->
+<a href='https://youtu.be/zMNYan1mIds'><img src='https://badges.aleen42.com/src/youtube.svg'></a> &ensp;
 <a href='https://huggingface.co/datasets/Ellis/CatMaskHQ'><img src='https://img.shields.io/static/v1?label=Dataset&message=HuggingFace&color=yellow'></a> &ensp;
 <a href='https://huggingface.co/Ellis/MaTe3D'><img src='https://img.shields.io/static/v1?label=Models&message=HuggingFace&color=yellow'></a> &ensp;
 </div>

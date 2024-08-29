@@ -50,8 +50,34 @@ To expand the scope beyond human face and explore the model generalization and e
 | MaTe3D-CatFace | CatMaskHQ | [:link:](xx) |
 
 ## Inference
-Stay tuned!
 
+
+### Generator
+
+1. Face
+```
+cd mate3d-generator
+python infer_face.py
+```
+
+
+2. Cat Face
+```
+cd mate3d-generator-cat
+python infer_cat.py
+```
+### Editing
+1. Old Editing
+
+```
+python gen_video_proj_withseg_edit_yaw_1.py --network_aux /openbayes/input/input0/results/face/edit_output/0001-old/mate3d-mask-face.pkl/20_fintuned_generator.pkl   --latent /openbayes/home/mate3d-generator/data/seed0001.npz --latent_aux /openbayes/input/input0/results/face/edit_output/0001-old/mate3d-mask-face.pkl/20_projected_w.npz --output videos/0001.mp4
+```
+
+2. Hair Editing
+
+```
+python gen_video_proj_withseg_edit_yaw_362.py --network_aux /openbayes/input/input0/results/face/edit_output/0362-hair/mate3d-mask-face.pkl/40_fintuned_generator.pkl   --latent /openbayes/home/mate3d-generator/data/seed0362.npz --latent_aux /openbayes/input/input0/results/face/edit_output/0362-hair/mate3d-mask-face.pkl/40_projected_w.npz --output videos/0362.mp4
+```
 
 
 ## Citation	

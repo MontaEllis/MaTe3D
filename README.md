@@ -46,11 +46,25 @@ To expand the scope beyond human face and explore the model generalization and e
 ### Model Weight
 | Model | Data |  URL   |
 |-------|------|--------|
-| MaTe3D-Face | FFHQ-Mask | [:link:](xxx) |
-| MaTe3D-CatFace | CatMaskHQ | [:link:](xx) |
+| ControlNet-Face | FFHQ-Mask | [:link:](https://huggingface.co/Ellis/MaTe3D/tree/main/face_controlnet) |
+| ControlNet-CatFace | CatMaskHQ | [:link:](https://huggingface.co/Ellis/MaTe3D/tree/main/cat_controlnet) |
+| MaTe3D-Face | FFHQ-Mask | [:link:](https://huggingface.co/Ellis/MaTe3D/tree/main/pretrained-g) |
+| MaTe3D-CatFace | CatMaskHQ | [:link:](https://huggingface.co/Ellis/MaTe3D/tree/main/pretrained-g) |
 
 ## Inference
 
+### ControNet
+1. Face
+```
+cd controlnet
+python infer.py
+```
+
+2. Cat
+```
+cd controlnet
+python infer_cat.py
+```
 
 ### Generator
 

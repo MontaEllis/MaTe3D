@@ -1,7 +1,7 @@
 
 
 <!-- ### <div align="center"> MaTe3D: Mask-guided Text-based 3D-aware Portrait Editing <div>  -->
-# MaTe3D: Mask-guided Text-based 3D-aware Portrait Editing
+# [IJCV 2026] MaTe3D: Mask-guided Text-based 3D-aware Portrait Editing
 <div align="center">
 
 <a href='https://montaellis.github.io/mate-3d/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &ensp;
